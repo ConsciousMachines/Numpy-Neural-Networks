@@ -4,7 +4,7 @@ This is my journey to implement NNs from first principles, one neuron at a time.
 
 In [this notebook](https://github.com/ConsciousMachines/Numpy-Neural-Networks/blob/main/tutorials/nnfs_blog_1_visualize_1D.py) we build a neural network with 2 neurons in layer 1, and 1 neuron in layer 2. We then visualize how it learns to separate the following data:
 
-[![Alt Text](https://github.com/ConsciousMachines/Numpy-Neural-Networks/blob/main/img/anim_1.gif)](soyboy)
+[![Alt Text](https://github.com/ConsciousMachines/Numpy-Neural-Networks/blob/main/img/anim_1.gif)]()
 
 We take things up a notch in [this other notebook](https://github.com/ConsciousMachines/Numpy-Neural-Networks/blob/main/tutorials/nnfs_blog_3_visualize_2D_spiral.py) to visualize how neural networks bend space to make the data linearly separable in the final layer:
 
